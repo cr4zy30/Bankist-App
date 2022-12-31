@@ -14,7 +14,7 @@ Account 2
  
  ### Website
 
-**Click here:** [Bankist-App](https://denis-voronov-bankist-app.netlify.app/)
+**Live website:** [Bankist-App](https://denis-voronov-bankist-app.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/112426363/210157094-84cfdbd8-db7d-4525-98f4-37c0c0028a3f.png)
 
